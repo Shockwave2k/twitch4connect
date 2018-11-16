@@ -1,2 +1,2 @@
-# twitch4conect
+# twitch4connect
 A four connect game as twitch extension.
